@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/andre-luiz2077" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>&nbsp;<a href="https://www.instagram.com/andree.dat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"></a>
+  <a href="https://www.linkedin.com/in/andreeluiz-dat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>&nbsp;<a href="https://www.instagram.com/andree.dat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"></a>
 </p>
 
 ---
