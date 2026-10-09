@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I am a junior developer with a strong focus on <strong>Backend development (Python & Java)</strong> and a passion for technology. I am actively seeking my first job opportunity where I can apply my skills in software engineering, data architecture, and infrastructure.
+  I am a developer with a strong focus on <strong>Backend development (Python & Java)</strong> and a passion for technology. I am actively seeking my first job opportunity where I can apply my skills in software engineering, data architecture, and infrastructure.
 </p>
 
 <p>
