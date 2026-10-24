@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=true&text=Hello!%20I%20am%20Andr%C3%A9%20Luiz%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=79&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8A2BE2" alt="header" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=98&section=header&reversal=true&text=Hello!%20I%20am%20Andr%C3%A9%20Luiz%20%F0%9F%A5%B7%F0%9F%8F%BE&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=79&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=8A2BE2" alt="header" />
 </div>
 
 ###
@@ -35,72 +35,79 @@
 
 ###
 
-<h2 align="center">🚀 Portfolio</h2>
+<h2 align="center">💻 Tech Stack & Tools</h2>
 
-<p align="center">
-  Projects where I apply academic knowledge to practical, performance-oriented challenges.
-</p>
-
-### 1. PromoScraper API — High-Performance Async Scraping
-
-Asynchronous REST API that scrapes e-commerce promotions concurrently, handling I/O-bound tasks without blocking the event loop — mirroring real-world data engineering challenges.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-
-* **Stack:** Python 3.11+ (asyncio, aiohttp, BeautifulSoup4), FastAPI, PostgreSQL (asyncpg, SQLAlchemy), Docker (multi-stage builds), Pytest
-* **Skills:** async programming and concurrency control, RESTful API design, ORM integration, production containerization, TDD
-* 🔗 **[Repository](https://github.com/andreedat/promoscraper-api)**
-
-### 2. Workshop Management System — Python & SQL
-
-Python CLI application to manage a mechanic workshop: customer/vehicle registration, service management, invoicing and complex reports.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-
-* **Skills:** relational database design, complex SQL queries (JOINs, aggregates), code organization (separation of concerns)
-* 🔗 **[Repository](https://github.com/andreluizdev01/trabalho-roberta)**
-
-### 3. Web Server Demo — Docker & API
-
-Academic project demonstrating the containerization of Nginx and Apache web servers with Docker, serving a dynamic site that consumes the Open-Meteo API in real time to display weather data.
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-
-* **Skills:** custom Dockerfiles, consuming third-party REST APIs (JSON), web infrastructure fundamentals
-* 🔗 **[Repository](https://github.com/andreluizdev01/Atividade-programacao-web-faculdade)**
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="60" alt="dbeaver logo"  />
+</div>
 
 ###
 
-<h2 align="center">💻 Tech Stack & Tools</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<h3 align="center">Languages</h3>
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,js,c,html,css&perline=6" height="50" alt="languages" />
-</div>
-
-<h3 align="center">Backend & Databases</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql&perline=4" height="50" alt="backend and databases" />
-</div>
-
-<h3 align="center">Infrastructure & DevOps</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,apache&perline=3" height="50" alt="infrastructure" />
-</div>
-
-<h3 align="center">IDEs & Tools</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,git,github&perline=5" height="50" alt="tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="48" alt="DBeaver" />
-</div>
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/andreedat/promoscraper-api">PromoScraper API</a></b><br />
+      Async REST API that scrapes e-commerce promotions concurrently.<br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/andreluizdev01/trabalho-roberta">Workshop Management System</a></b><br />
+      Python CLI to manage a mechanic workshop, with complex SQL reports.<br /><br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/andreluizdev01/Atividade-programacao-web-faculdade">Web Server Demo</a></b><br />
+      Nginx and Apache in Docker serving a site that consumes a weather API.<br /><br />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" />
+    </td>
+  </tr>
+</table>
 
 ###
 
